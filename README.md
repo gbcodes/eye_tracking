@@ -3,7 +3,7 @@
 Clone this project:
 
 ```shell
-git clone https://github.com/antoinelame/GazeTracking.git
+git clone https://github.com/gbcodes/eye_tracking.git
 ```
 
 ```shell
