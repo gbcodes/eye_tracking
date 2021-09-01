@@ -9,3 +9,4 @@ git clone https://github.com/gbcodes/eye_tracking.git
 ```shell
 pip install -r requirements.txt
 ```
+Далее, запускаем main.py
